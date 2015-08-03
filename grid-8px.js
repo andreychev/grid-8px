@@ -6,7 +6,7 @@
 var colorSmallBlock = '#F7E1F6';
 var colorBigBlock = '#ADE2E0';
 var sizeSmallBlock = 8;
-var sizeBigBlock = 32;
+var sizeBigBlock = 64;
 
 runWhenComplete(initGrid);
 
